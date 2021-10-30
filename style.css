@@ -1,0 +1,19 @@
+body {
+    background-color: #393E46;
+    color: #4ECCA3;
+    font-family: cursive;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+.dice {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 7rem;
+}
